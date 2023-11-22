@@ -1,0 +1,41 @@
+#principal {
+    width: 100%;
+    
+}
+
+.noticia {
+    background: rgb(224, 222, 222);
+    padding: 5px;
+    width: 250px;
+    margin: 8px;
+    float: left;
+}
+
+.galeria {
+    background: white;
+    width: 255px;
+    padding: 6px;
+    float: left;
+    margin: 3px
+}
+
+.foto {
+    border: 5px solid rgb(255, 244, 226);
+}
+
+h2 {
+    color: rgb(58, 58, 130);
+    font: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font: bold;
+    color: rgb(13, 13, 25);
+}
+
+.clear{
+    clear: both;
+}
